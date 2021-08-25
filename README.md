@@ -1,4 +1,4 @@
-# fairbox-website
+# fairbox-website-files
 
 ## Project setup
 ```
@@ -12,9 +12,8 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run deploy
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# fairbox-website-files
